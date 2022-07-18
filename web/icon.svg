@@ -1,0 +1,21 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="3" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="258" width="258" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="128" rx="128" id="svg_1" cy="127.999996" cx="128.000007" stroke-width="0" stroke="#000" fill="#007fff"/>
+  <path filter="url(#svg_3_blur)" opacity="0.8" id="svg_3" d="m97.975248,204.161749c-6.59179,-1.112668 -12.714497,-7.16457 -11.470957,-14.229189c0.629382,-7.75551 6.794013,-13.9974 12.996579,-18.109939c8.2548,-5.619736 19.541426,-7.707361 28.638378,-2.860442c0.533027,-39.092601 0.229247,-78.194992 0.30999,-117.292012c5.736588,-1.389015 3.881769,6.121672 5.18464,9.59503c1.243213,10.213551 8.093667,18.227767 14.912493,25.384065c8.459872,8.995142 17.443053,18.532708 20.192818,30.994885c3.00267,14.458845 -1.797585,29.25039 -8.027047,42.208279c-0.451092,4.152877 -8.068694,10.161136 -4.4394,2.656668c6.111096,-12.837692 11.159647,-27.62243 6.988436,-41.838166c-3.972205,-14.184625 -16.353275,-26.03091 -31.092077,-28.155042c-0.095255,29.951896 0.231953,59.909454 -0.349305,89.856552c-1.448986,8.821364 -9.110922,15.366737 -16.794495,19.104211c-5.298187,2.306811 -11.277925,3.702522 -17.050049,2.685109l-0.000005,-0.00001z" stroke-width="0" stroke="#000" fill="#FFF093"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="84" id="svg_2" y="157.249682" x="65.000692" stroke-width="0" stroke="#000" fill="#ffffff">PM</text>
+ </g>
+</svg>
